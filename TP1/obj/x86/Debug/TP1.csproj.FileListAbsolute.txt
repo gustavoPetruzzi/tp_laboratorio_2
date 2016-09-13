@@ -1,0 +1,13 @@
+C:\Petruzzi.Gustavo\TP1\bin\Debug\TP1.exe
+C:\Petruzzi.Gustavo\TP1\bin\Debug\TP1.pdb
+C:\Petruzzi.Gustavo\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Petruzzi.Gustavo\TP1\obj\x86\Debug\TP1.Form1.resources
+C:\Petruzzi.Gustavo\TP1\obj\x86\Debug\TP1.Properties.Resources.resources
+C:\Petruzzi.Gustavo\TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Petruzzi.Gustavo\TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Petruzzi.Gustavo\TP1\obj\x86\Debug\TP1.exe
+C:\Petruzzi.Gustavo\TP1\obj\x86\Debug\TP1.pdb
+E:\Petruzzi.Gustavo\TP1\obj\x86\Debug\TP1.exe
+E:\Petruzzi.Gustavo\TP1\obj\x86\Debug\TP1.pdb
+F:\Petruzzi.Gustavo\TP1\obj\x86\Debug\TP1.exe
+F:\Petruzzi.Gustavo\TP1\obj\x86\Debug\TP1.pdb
