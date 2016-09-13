@@ -1,0 +1,475 @@
+		STRINGS (Cadenas)
+
+	ejemplo: Nombre ="pedro"
+		 Variable = "valor"
+   -secuencia de escape: caracteres que solucionan
+    			 problemas ( \ ... \)
+     ejemplo: "hola, "amigo" "--------> Mal
+	      "hola, \" amigo \" "----> Bien
+	\"----> sin espacio "\ --->sin espacio
+   - Acceso por indice
+	g = "gatos" [0]
+	print (g)
+		g
+   
+   - Metodos de cadenas: realiza tareas especificas
+     las cadenas
+	loro ="Azul oscuro"
+	1. len()----> largo de la cadena
+	 ejemplo: len(loro)	
+	2. lower()-->loro.lower()--> pone minusculas
+	3. upper()-->loro.upper()--> pone mayusculas
+	4. str()--> convierte en cadena algo que no
+	 cadena--> pi=3.14
+		   print str(pi)
+		     3.14
+    
+   - Concatenacion de cadenas "cadena1 " + "cadena2"
+      + "cadena3"
+	3.14-> no! str(3.14) o "3.14
+   - Formateo de cadenas con %
+	string_1 = "puto"
+	string_2 = "roberto"
+	print "hola soy %s y me llamo %s " %
+	(string_1, string_2)
+   RESUMEN
+	Tres formas de crear cadenas
+	  'pito'
+	  "pito"
+	  str(pito)
+	Metodos de cadenas
+	  len("carlos")
+	  "delta.upper()
+	  "pito".lower()
+	Mostrar cadena
+	  print "pito"
+	Tecnicas avanzadas de mostrar 
+	  pi = "pito"
+	  to = "topi"
+	  print "%s, %s" % (pi, to)
+
+			FECHA Y HORA
+	- 1º linea---->from datetime import datetime
+	- fecha y hora actual x = datetime.now()
+	- año actual (solo) = x.year
+	- mes actual (solo) = x.month
+	- dia actual (solo) = x.day
+		ejemplo
+
+	from datetime import datetime
+	ahora = datetime.now()
+
+	anio_actual = ahora.year	ahora.hour
+	mes_actual  = ahora.month	ahora.minute
+	dia_actual  = ahora.day		ahora.second
+	mostrar fecha dd/mm/aaaa
+
+	print %s-%s-%s % (ahora.day, ahora.month, 
+			  ahora.year)
+
+		CONTROL DE FLUJO
+   capacidad de elegir entre resultados segun el 
+   programa--------> resultado, true o false
+  Igual a (==) *
+  No es igual a (!=)
+  Menor que (<)
+  Menor o igual que (<=)
+  Mayor que (>)
+  Mayor o igual que (>=)
+
+		OPERADORES BOOLEANOS (logicos)
+   Compara sentencias y dan resultados booleanos (true, false)
+ 
+   3 operadores booleanos
+	
+	and---> controla si ambas son True
+	or----> controla si una por lo menos es True
+	Not---> da el opuesto de la sentencia
+	
+	---------------------------
+	True and True es True
+	True and False es False
+	False and True es False
+	False and False es False
+
+	True or True es True
+	True or False es True
+	False or True es True
+	False or False es False
+
+	Not True es False
+	Not False es True
+
+
+Operadores booleanos----> no se calculan de izquierda a derecha
+                          existe orden
+	1° se calcula not
+	2° se calcula and
+	3° se calcula or
+       
+
+Sintaxis de sentencias condicionales
+
+if----------> sentencia condicional que ejectuta un codigo especifico si la expresion es "True"
+
+
+if some_function():
+        primera linea del bloque
+        segunda linea del bloque
+        etcetera
+
+
+ejemplo-------------> def using_control_once():
+		     	   If True:
+		      	      return "Exito 1"
+
+else----> complementa if
+if/else----> si esta expresion es true, ejecuta esto,
+	     de lo contrario, ejecuta el codigo desp
+	     ues de else
+elif-----> else if---> si if no es true, y este codigo
+		       es True, hace esto
+
+
+ejemplo     
+	if 8 > 9:
+    		print "¡No me muestro!"
+	elif 8 < 9:
+    		print "¡Me muestro!"
+	else:
+    		print "¡Yo tampoco me muestro!" 
+
+
+
+Pig Latin
+
+raw_input------->Nombrecadena = raw_input("loquequiero que aparezca")
+.isalpha()-------> te dice si una palabra tiene solo
+		   letras
+		   ejem-----> original ="pig latin"
+			      if original,isalpha():
+				  print original
+                              else
+				  print vacio
+NOTA APARTE----> PONER PRIMERO LAS VARIABLES Y DESPUES
+		 LOS IFS
+
+			(DEF)INICIONES
+Es mas facil definir una funcion que despues copiar el
+copiar el codigo
+
+Funciones se definen con tres partes:
+
+1)  El encabezado---> Instruccion def
+		 --->Nombre de la funcion
+		 --->*parametros
+
+2)** Un **comentario** opcional, que explica lo que hace la función:
+
+
+    """Muestra con print '¡Hola Mundo!' en la ventana de Resultados."""
+    
+3)** Y el **cuerpo**, que describe los procedimientos que la función lleva a cabo. El cuerpo está *indentado*,  igual que las sentencias condicionales.
+
+ ```python
+    print "¡Hola Mundo!"
+
+Ejemplo
+
+def hola_mundo():         -------->1)
+    """Muestra con print '¡Hola Mundo!' en la ventana de Resultados."""------->2
+    print "¡Hola Mundo!"             ------->3
+    ```
+
+Despues de definir funcion, se la llama para que se
+
+implemente         (cuando se llama, no se pone :)
+
+
+def cuadrado (n)
+
+n----->parametro---->nombre de una variable para 
+		     pasar a un argumento
+ejem
+def cuadrado(n):
+		cuadrado = n**2
+    		print "%s al cuadrado es %s" (n, cuadrado)
+
+n cuadrado-----> 10 argumento
+
+Funciones que llaman a otras funciones---> una funci
+	on puede llamar a otra
+ejemplo
+
+	def fun_one(n):
+    		return n * 5
+
+	def fun_two(m):
+    		return fun_one(m) + 7
+ 	
+	
+			IMPORTAR
+
+import this------> importar un modulo
+
+Modulo----> Archivo que contiene definiciones
+	    incluye variable y funciones
+
+importar modulo que ya tiene python (ej "math")----
+---> importacion generica
+
+importar solo ciertas variables o funciones-------->
+
+from module(math) import function(sqrt)
+
+ejemplo:
+	from math import sqrt
+	print sqrt(25)
+
+Importacion universal (importar todo):
+
+From module (math) import *
+
+Problemas---> si importamos todos, quizas que algunas
+	      funciones tienen el mismo nombre.
+
+Usar import modulo modulo.nombre
+
+ejemplo
+
+	import math math.sqrt
+
+
+	Funciones ya incorporadas (sin modulos)
+
+max()-----> Toma cualquier argumento y devuelve el
+	    mayor de ellos (enteros y reales)
+
+ejemplo---> max(1,2,3)--------> 3
+
+min()-----> mismo que max pero con minimo
+
+ejemplo---> min (1,2,3)------> 1
+
+abs()-----> devuelve el valor absoluto de un numero
+	    que toma como argumento -------> es decir
+	    da distancia hasta 0
+
+ejemplo---> abs(-7)-----> 7
+
+
+type()----> devuelve el tipo de dato que es el 
+	    argumento
+
+ejemplo---> type(123)----------> <type 'int'>
+            type(4.2)----------> <type 'float'>
+	    type('peron')------> <type 'str'>
+
+			LISTAS
+
+Tipos de datos para almacenar fragmentos
+de informacion con un solo nombre de variable.
+ 
+(tipos de datos----> cadenas, numeros y booleanos)
+
+nombre_de_lista= [elemento_1, elemento_2]
+
+las listas tambien pueden estar vacias.
+acceder elemento individual de una lista
+------> indice----> direccion de la posicion
+
+indice--------> nombre_de_lista[indice]
+      --------> empiezan con 0, no con 1
+
+indice--------> funciona como variable----->accede
+		y asigna valores.
+
+ejemplo---->
+animales_zoo = ["mono", "elefante", "tigre", "oso"]
+
+animales_zoo[2] = "delfin"
+
+cambia tigre por delfin
+
+listas-------> podes agregar todas las veces que
+	       quieras.
+
+nombrelista.append('palabra_para_agregar')
+
+Particionado de listas---> acceder a una parte de
+			   la lista.
+ejemplo
+	letras = [a,b,c,d,e]
+	slice  = letras[1:3]
+	print slice
+	print letras
+
+va a mostrar---->   b c
+ 		    a b c d e 
+
+letras[1:3]------> muestra desde 1 hasta antes de 3
+
+lista----> primer elemento----->indice no tiene que 
+	   estar incluido [:2]
+	   ultimo elemento----->indice no tiene que
+	   estar inclido  [2:]
+
+lista.index(item)----> buscar en la lista un indice
+	ejemplo-----> animales.index("murcielago")
+
+lista.insert(posicion, item)---> inserta un item en
+				 la lista y su 
+				 posicion
+		ejemplo animales.insert(1,"perro")
+
+listas----> sirven de datos en las funciones
+
+		FOR------>bucle (¿?)
+
+hacer algo con cada elemento de la lista
+
+for variable in nombre_lista:
+
+ejemplo
+
+	  mi_lista = [1,9,3,8,5,7]
+	
+	  for numero in mi_lista:
+     	  	print 2 * numero
+muestra-> 2 18 6 16 10 14
+La variable entre for e in puede tener cualquier
+nombre de variable  	
+
+numeros = [1, 3, 4, 7]
+for numero in numeros: 
+    if numero > 6:
+        print numero 
+print "Mostramos 7."
+
+01. En el ejemplo anterior, creamos una lista con 
+    4 números.
+02. Después recorremos los numeros de la lista 
+    y almacenamos cada ítem en la lista en la 
+    variable numero.
+03. En cada ciclo, si el numero es mayor que 6, 
+    lo mostramos con print. Entonces mostramos 7.
+04. Finalmente, mostramos una sentencia.
+
+
+
+eliminar item lista------> nombre_lista.remove(item)
+
+ejemplo----> mochila = ['caramelo', 'cuchillo',
+		        'pan']
+	
+	     mochila.remove('cuchillo')
+
+			DICCIONARIOS
+
+diccionario--------> similares a la lista, se busca
+		     con clave en vez de indice
+clave---> puede ser cualquier cadena o numero
+
+ejemplo--->
+
+       diccionario = {'clave1' : valor1, 'clave2'
+		      : valor2, 'clave3' : valor3}
+
+diccionarios----> geniales apra guias telefonicas
+		  (nombre-numero telefonico), pagina
+		  de inicio de sesion (direccion de
+		  correo a un nombre de usuario)
+
+
+Ejemplo----->
+	residentes = {'Gaviota' : 104, 'Perezoso' 
+	: 105, 'Piton de Birmania' : 106}
+	print residentes['Gaviota'] 
+	print residentes['Perezoso']
+	print residentes['Piton de Birmania']
+
+Diccionarios se pueden cambiar (como listas)
+
+agregar---->nombre_diccionario[clave_nueva] = 
+	    valor_nuevo
+
+ejemplo menu['Pollo Alfredo'] = 20.50
+
+sacar del diccionario-----> del nombre_diccionario[nombre_clave]
+
+
+dentro de diccionario-----> se puede poner, listas,
+			    claves y cadenas
+ejemplo
+     mi_diccionario = {"pez": ["c", "a", "r", "p"],
+    "efectivo": -4483,
+    "suerte": "buena"
+	}
+print mi_diccionariot["pez"][0]
+
+sacar cosas de una lista que esta adentro de un
+diccionario:
+
+    nombre_diccionario['clave_lista'].lista_funcion()
+
+ejemplo:
+
+inventario['mochila'].remove('cuchillo')
+
+
+FOR en diccionarios. 
+
+ejemplo
+	d = {"foo" : "bar"}
+
+	for key in d: 
+    		print d[key]  # muestra "bar" 
+ejemplooo
+
+precios = { "banana": 4, "manzana":2, "naranja":
+	  1.5, "pera" : 3 }
+	
+for key in precios:
+    print precios[key]
+
+IMPORTANTE---> imprimir solamente clave: poner nombre
+	       de variable de for
+
+EJEMPLO: 
+
+precios = { "banana": 4, "manzana":2, "naranja":
+	  1.5, "pera" : 3 }
+
+for lista in precios:
+	print lista
+
+y consola va a mostrar:
+	banana manzana naranja pera
+
+IMPORTANTE----> TENER EN CUENTA LOS ESPACIOS.
+
+EJEMPLO: 
+
+precios = { "banana": 4, "manzana":2, "naranja":
+	  1.5, "pera" : 3 }
+
+for lista in precios:
+	print lista
+
+banana manzana naranja pera
+no es lo mismo que:
+
+
+precios = { 
+"banana": 4,
+"manzana":2, 
+"naranja":1.5, 
+"pera" : 3 }
+
+for lista in precios:
+	print lista
+
+banana
+manzana
+naranja
+pera

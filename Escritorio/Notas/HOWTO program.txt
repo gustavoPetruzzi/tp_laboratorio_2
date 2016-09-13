@@ -1,0 +1,122 @@
+Infomacion = DATA
+  Numeros = 1 clase de data /data atomica
+  Numeros de serie = Compound data (porque esta hecho de piezas pequeñas de data)
+  Letras = data atomica
+Data representa informacion, pero la interpretacion correcta se la damos nosotros
+
+Numeros y aritmetica
+  numero -----> muchas formas--> positivos, negativos, fracciones etc
+como una calculadoras, los esquemas permiten al programador sumar, restar, multiplicar y dividir numeros
+  como aritmetica o algebra, se pueden anidar expresiones
+
+		Ejemplo (* (+2 2) ( / (* (+ 3 5 ) (/ 30 10) ) 2 ))
+		      = (* 4 (/ (*8 3) 2))
+		      = (* 4 (/ 24 2))
+		      = (* 4 12)
+		      = 48
+Variables y programas
+   Variable---> simbolo para un numero que no sabemos
+      ejem. ---> 3.14. r2---> area del circulo. r----> variable
+   programa es una regla. Es una regla que nos dice a nosotros y la computadora como producir data de otra data.
+   Programas largos----> programas cortos combinados de distintas maneras.
+   Importante----> nombrar programas bien.
+	ejem---> area-of-disk
+	 (define (area-of-disk r)
+		( * 3.14 (* r r )
+   Input = r output = ( * 3.14 (* r r ) cuando r este definida
+   programas combinan operaciones. area-of-disk solo una 1 operacion basica (*) pero (define)d programs, usan las operaciones necesarias
+   Una vez que tenemos un (define)d program, lo usamos de operacion primitiva. A la derecha del programa, tenemos que definir el input
+	Ejem ---> (define (area-of-disk r)
+		     ( * 3.14 (* r r )
+		(area-of-disk 5)
+		= (*3.14 (* 5 5 ))
+		= (3.14 25 )
+		= 78.5
+ejercicios-----> Definir un programa para convertir de fahrenheit a celsius.
+
+ define (fahrenheit--->celsius t)
+   (* 5/9 (-t 32))
+ejercicio --------> converti de dolares a euro
+
+ define (dolar--euro d)
+   (* 0.88 d)
+
+Ejercicio-----> definir el programa triangulo. El programa produce el area de un triangulo.
+  define (triangle ba al)
+      (* 1/2  ba al ))
+
+Ejercicio--------> Los contadores de utopia siempre usan programas que definen impuestos,
+		   aunque el impuesto sea seimpre el mismo.
+	 define tax w
+	   (* 0.15 w))
+	 define wage h
+	   (* 12 h))
+
+	 define netpay
+	   (- (wage h)
+	   ( tax (wage h)))
+
+Ejercicio-----> el supermercado necesita un programa que compute el valor de una bolsa de
+		de una bolsa de monedas.Defini sum-coins
+	       
+		define sum-coins d v c up dp
+		(+ (* d 10))
+		   (* v 25))
+		   (* up 100))
+		   (* dp 200)))
+Ejercicio-----> En un cine viejo cada cliente paga $5 por ticket. Cada pelicula sale $20 mas
+		mas 0.50 por cliente. desarrolla total-profit para saber el precio de cada show
+		
+		define total-profit c
+		     (- (* 5 c ) (+ 20 (* .50 c))))
+
+ERRORES	
+   Cuando escribimos scheme programs-----------> seguir reglas.
+   Expresiones son---> atomicas---> numeros o variables
+		  ---> compuestas--> empiezan con "(" seguidas de una operacion, alguna
+				     expresion y termina en ")"
+   
+   Las definiciones tienen la siguiente forma:
+	(define (f x ... y)
+	  an-expression)
+
+Definicion---> secuencia de muchas palabras y expresiones. "(" la palabra define "(" un espacio no vacio secuencia de nombres
+	       separados por espacios, ")", una expression y un closing ")".
+	  
+	 ----> f x... y introduce el nombre del programa y el nombre de la variable
+
+no todas las expresiones entre parentesis son expresiones scheme
+	ejem---> (10)--> expresion parentesis--> no expresion scheme---> numero no van entre parentesis en scheme
+
+					Ejercicio	      
+;; Execute these examples one at a time in DrScheme to see error messages for common mistakes.
+ 
+(+ (10) 20)
+
+;;1.
+;;error message: function call: expected a defined name or a 
+;;               primitive operation name after an open parenthesis, 
+;;               but found a number
+;;meaning:       Scheme expects an operation after a parenthesis, 
+;;               so parenthesizing the number is a mistake.
+
+(10 + 20)
+
+;;2.
+;;error message: function call: expected a defined name or a 
+;;               primitive operation name after an open parenthesis, 
+;;               but found a number
+;;meaning:       10 is not a valid operation or a defined function
+;;correction:    use prefix notation, not infix notation
+
+(+ +)
+
+;;3.
+;;error message: this primitive operator must be applied to arguments; 
+;;               expected an open parenthesis before the primitive 
+;;               operator name
+;;meaning:       Scheme expects arguments to follow an operator, 
+;;               not another operator
+
+
+
