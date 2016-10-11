@@ -16,7 +16,7 @@ namespace Clase_12_Library
         string _patente;
         ConsoleColor _color;
         /// <summary>
-        /// 
+        /// Inicializa una nueva instancia de la clase Vehiculo
         /// </summary>
         /// <param name="patente"></param>
         /// <param name="marca"></param>
