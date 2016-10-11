@@ -8,6 +8,12 @@ namespace Clase_12_Library
 {
     public class Automovil:Vehiculo
     {
+        /// <summary>
+        /// Inicializa una nueva instancia de la clase Automovil.
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="patente"></param>
+        /// <param name="color"></param>
         public Automovil( EMarca marca, string patente, ConsoleColor color)
             : base(patente, marca, color)
         {
