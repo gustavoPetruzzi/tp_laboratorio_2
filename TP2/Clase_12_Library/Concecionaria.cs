@@ -15,10 +15,17 @@ namespace Clase_12_Library
         }
 
         #region "Constructores"
+        /// <summary>
+        /// Inicializa una nueva instancia de la clase Concecionaria (solo inicializa el atributo _vehiculos).
+        /// </summary>
         private Concecionaria()
         {
             this._vehiculos = new List<Vehiculo>();
         }
+        /// <summary>
+        /// Inicializa una nueva instancia de la clase Concecionaria (solo inicializa el atributo _espacioDisponible).
+        /// </summary>
+        /// <param name="espacioDisponible"></param>
         public Concecionaria(int espacioDisponible):this()
         {
             this._espacioDisponible = espacioDisponible;
