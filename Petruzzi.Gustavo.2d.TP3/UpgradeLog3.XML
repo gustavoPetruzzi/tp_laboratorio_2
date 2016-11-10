@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Petruzzi.Gustavo.2d.TP3">
+</Property><Property Name="Solution File" Value="C:\Petruzzi.Gustavo.2d.TP3\Petruzzi.Gustavo.2d.TP3.sln">
+</Property><Property Name="User Options File" Value="C:\Petruzzi.Gustavo.2d.TP3\Petruzzi.Gustavo.2d.TP3.suo">
+</Property><Property Name="Date" Value="Lunes, 07 de Noviembre de 2016">
+</Property><Property Name="Time" Value="09:47 a.m.">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Petruzzi.Gustavo.2d.TP3.sln" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Petruzzi.Gustavo.2d.TP3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Petruzzi.Gustavo.2d.TP3.suo" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Petruzzi.Gustavo.2d.TP3.suo">
+</Event><Event ErrorLevel="0" Project="EntidadesAbstractas" Source="EntidadesAbstractas\EntidadesAbstractas.csproj" Description="Project file successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesAbstractas\EntidadesAbstractas.csproj">
+</Event><Event ErrorLevel="0" Project="EntidadesAbstractas" Source="EntidadesAbstractas\Persona.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesAbstractas\Persona.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesAbstractas" Source="EntidadesAbstractas\PersonaGimnasio.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesAbstractas\PersonaGimnasio.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesAbstractas" Source="EntidadesAbstractas\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesAbstractas\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesAbstractas" Source="EntidadesAbstractas\EntidadesAbstractas.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EntidadesAbstractas" Source="EntidadesAbstractas\EntidadesAbstractas.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="EntidadesInstanciables" Source="EntidadesInstanciables\EntidadesInstanciables.csproj" Description="Project file successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesInstanciables\EntidadesInstanciables.csproj">
+</Event><Event ErrorLevel="0" Project="EntidadesInstanciables" Source="EntidadesInstanciables\Alumno.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesInstanciables\Alumno.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesInstanciables" Source="EntidadesInstanciables\Gimnasio.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesInstanciables\Gimnasio.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesInstanciables" Source="EntidadesInstanciables\Instructor.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesInstanciables\Instructor.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesInstanciables" Source="EntidadesInstanciables\Jornada.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesInstanciables\Jornada.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesInstanciables" Source="EntidadesInstanciables\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\EntidadesInstanciables\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EntidadesInstanciables" Source="EntidadesInstanciables\EntidadesInstanciables.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="EntidadesInstanciables" Source="EntidadesInstanciables\EntidadesInstanciables.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TP3" Source="TP3\TP3.csproj" Description="Project file successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\TP3\TP3.csproj">
+</Event><Event ErrorLevel="0" Project="TP3" Source="TP3\Program.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\TP3\Program.cs">
+</Event><Event ErrorLevel="0" Project="TP3" Source="TP3\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\TP3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TP3" Source="TP3\TP3.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TP3" Source="TP3\TP3.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Excepciones" Source="Excepciones\Excepciones.csproj" Description="Project file successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Excepciones\Excepciones.csproj">
+</Event><Event ErrorLevel="0" Project="Excepciones" Source="Excepciones\AlumnoRepetidoException.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Excepciones\AlumnoRepetidoException.cs">
+</Event><Event ErrorLevel="0" Project="Excepciones" Source="Excepciones\ArchivoException.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Excepciones\ArchivoException.cs">
+</Event><Event ErrorLevel="0" Project="Excepciones" Source="Excepciones\DniInvalidoException.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Excepciones\DniInvalidoException.cs">
+</Event><Event ErrorLevel="0" Project="Excepciones" Source="Excepciones\NacionalidadInvalidaException.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Excepciones\NacionalidadInvalidaException.cs">
+</Event><Event ErrorLevel="0" Project="Excepciones" Source="Excepciones\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Excepciones\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Excepciones" Source="Excepciones\SinInstructorException.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Excepciones\SinInstructorException.cs">
+</Event><Event ErrorLevel="0" Project="Excepciones" Source="Excepciones\Excepciones.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Excepciones" Source="Excepciones\Excepciones.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\Archivos.csproj" Description="Project file successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Archivos\Archivos.csproj">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\Texto.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Archivos\Texto.cs">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\IArchivo.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Archivos\IArchivo.cs">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Archivos\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\Xml.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\Archivos\Xml.cs">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\Archivos.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Archivos" Source="Archivos\Archivos.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestUnitario" Source="TestUnitario\TestUnitario.csproj" Description="Project file successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\TestUnitario\TestUnitario.csproj">
+</Event><Event ErrorLevel="0" Project="TestUnitario" Source="TestUnitario\UnitTest1.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\TestUnitario\UnitTest1.cs">
+</Event><Event ErrorLevel="0" Project="TestUnitario" Source="TestUnitario\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Petruzzi.Gustavo.2d.TP3\Backup2\TestUnitario\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestUnitario" Source="TestUnitario\TestUnitario.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestUnitario" Source="TestUnitario\TestUnitario.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Petruzzi.Gustavo.2d.TP3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Petruzzi.Gustavo.2d.TP3.sln" Description="Converted">
+</Event></UpgradeLog>

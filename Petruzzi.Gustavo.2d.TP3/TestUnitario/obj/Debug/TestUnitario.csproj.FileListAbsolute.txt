@@ -1,0 +1,13 @@
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\TestUnitario.dll
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\TestUnitario.pdb
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\Archivos.dll
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\EntidadesAbstractas.dll
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\EntidadesInstanciables.dll
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\Excepciones.dll
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\Archivos.pdb
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\EntidadesAbstractas.pdb
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\EntidadesInstanciables.pdb
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\bin\Debug\Excepciones.pdb
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\obj\Debug\TestUnitario.dll
+E:\Petruzzi.Gustavo.2d.TP3\TestUnitario\obj\Debug\TestUnitario.pdb
