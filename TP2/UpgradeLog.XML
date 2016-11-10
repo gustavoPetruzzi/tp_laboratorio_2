@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Alumno_Clase_12">
+</Property><Property Name="Solution File" Value="C:\Alumno_Clase_12\Alumno_Clase_12.sln">
+</Property><Property Name="User Options File" Value="C:\Alumno_Clase_12\Alumno_Clase_12.suo">
+</Property><Property Name="Date" Value="Viernes, 07 de Octubre de 2016">
+</Property><Property Name="Time" Value="16:16 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Alumno_Clase_12.sln" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Alumno_Clase_12.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Alumno_Clase_12.suo" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Alumno_Clase_12.suo">
+</Event><Event ErrorLevel="0" Project="Clase_12_Errores" Source="Clase_12\Clase_12_Errores.csproj" Description="Project file successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12\Clase_12_Errores.csproj">
+</Event><Event ErrorLevel="0" Project="Clase_12_Errores" Source="Clase_12\Program.cs" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12\Program.cs">
+</Event><Event ErrorLevel="0" Project="Clase_12_Errores" Source="Clase_12\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Clase_12_Errores" Source="Clase_12\App.config" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12\App.config">
+</Event><Event ErrorLevel="0" Project="Clase_12_Errores" Source="Clase_12\Clase_12_Errores.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Clase_12_Errores" Source="Clase_12\Clase_12_Errores.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Clase_12_Library" Source="Clase_12_Library\Clase_12_Library.csproj" Description="Project file successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12_Library\Clase_12_Library.csproj">
+</Event><Event ErrorLevel="0" Project="Clase_12_Library" Source="Clase_12_Library\Automovil.cs" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12_Library\Automovil.cs">
+</Event><Event ErrorLevel="0" Project="Clase_12_Library" Source="Clase_12_Library\Camion.cs" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12_Library\Camion.cs">
+</Event><Event ErrorLevel="0" Project="Clase_12_Library" Source="Clase_12_Library\Concecionaria.cs" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12_Library\Concecionaria.cs">
+</Event><Event ErrorLevel="0" Project="Clase_12_Library" Source="Clase_12_Library\Moto.cs" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12_Library\Moto.cs">
+</Event><Event ErrorLevel="0" Project="Clase_12_Library" Source="Clase_12_Library\Vehiculo.cs" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12_Library\Vehiculo.cs">
+</Event><Event ErrorLevel="0" Project="Clase_12_Library" Source="Clase_12_Library\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Alumno_Clase_12\Backup\Clase_12_Library\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Clase_12_Library" Source="Clase_12_Library\Clase_12_Library.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Clase_12_Library" Source="Clase_12_Library\Clase_12_Library.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Alumno_Clase_12.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Alumno_Clase_12.sln" Description="Converted">
+</Event></UpgradeLog>
