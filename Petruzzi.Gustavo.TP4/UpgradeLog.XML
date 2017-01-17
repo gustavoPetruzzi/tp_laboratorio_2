@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Navegador">
+</Property><Property Name="Solution File" Value="C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador.sln">
+</Property><Property Name="Date" Value="Viernes, 11 de Noviembre de 2016">
+</Property><Property Name="Time" Value="09:28 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Navegador.sln" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador.sln">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\Navegador.csproj" Description="Project file successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\Navegador.csproj">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\frmHistorial.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\frmHistorial.cs">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\frmHistorial.Designer.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\frmHistorial.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\frmWebBrowser.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\frmWebBrowser.cs">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\frmWebBrowser.Designer.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\frmWebBrowser.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\Program.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\Program.cs">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\Properties\Settings.settings" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\App.config" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\App.config">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\frmHistorial.resx" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\frmHistorial.resx">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\frmWebBrowser.resx" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\frmWebBrowser.resx">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\Properties\Resources.resx" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Navegador\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Navegador" Source="Navegador\Navegador.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Navegador" Source="Navegador\Navegador.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Hilo" Source="Hilo\Hilo.csproj" Description="Project file successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Hilo\Hilo.csproj">
+</Event><Event ErrorLevel="0" Project="Hilo" Source="Hilo\Descargador.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Hilo\Descargador.cs">
+</Event><Event ErrorLevel="0" Project="Hilo" Source="Hilo\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Hilo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Hilo" Source="Hilo\Hilo.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Hilo" Source="Hilo\Hilo.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\Archivos.csproj" Description="Project file successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Archivos\Archivos.csproj">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\IArchivo.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Archivos\IArchivo.cs">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Archivos\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\Texto.cs" Description="File successfully backed up as C:\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Backup\Archivos\Texto.cs">
+</Event><Event ErrorLevel="0" Project="Archivos" Source="Archivos\Archivos.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Archivos" Source="Archivos\Archivos.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Navegador.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Navegador.sln" Description="Converted">
+</Event></UpgradeLog>
