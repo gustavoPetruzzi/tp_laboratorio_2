@@ -1,0 +1,5 @@
+I:\Documents and Settings\Gustavo\Escritorio\C#\Threads\Threads\bin\Debug\Threads.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\Threads\Threads\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Documents and Settings\Gustavo\Escritorio\C#\Threads\Threads\obj\x86\Debug\Threads.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\Threads\Threads\obj\x86\Debug\Threads.pdb
+I:\Documents and Settings\Gustavo\Escritorio\C#\Threads\Threads\bin\Debug\Threads.pdb

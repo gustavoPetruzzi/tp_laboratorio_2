@@ -1,0 +1,5 @@
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\FinalMoneda\bin\Debug\FinalMoneda.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\FinalMoneda\bin\Debug\FinalMoneda.pdb
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\FinalMoneda\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\FinalMoneda\obj\x86\Debug\FinalMoneda.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\FinalMoneda\obj\x86\Debug\FinalMoneda.pdb

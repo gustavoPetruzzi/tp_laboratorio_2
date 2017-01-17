@@ -1,0 +1,5 @@
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\programacion\bin\Debug\programacion.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\programacion\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\programacion\obj\x86\Debug\programacion.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\programacion\obj\x86\Debug\programacion.pdb
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\programacion\bin\Debug\programacion.pdb

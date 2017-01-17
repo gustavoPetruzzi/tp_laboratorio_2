@@ -1,0 +1,5 @@
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\ClaseMoneda.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\ClaseMoneda.cs\bin\Debug\ClaseMoneda.cs.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\ClaseMoneda.cs\obj\x86\Debug\ClaseMoneda.cs.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\ClaseMoneda.cs\obj\x86\Debug\ClaseMoneda.cs.pdb
+I:\Documents and Settings\Gustavo\Escritorio\C#\Final\ClaseMoneda.cs\bin\Debug\ClaseMoneda.cs.pdb

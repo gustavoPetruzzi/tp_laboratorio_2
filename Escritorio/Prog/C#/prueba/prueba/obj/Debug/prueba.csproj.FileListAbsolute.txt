@@ -1,0 +1,5 @@
+I:\Documents and Settings\Gustavo\Escritorio\C#\prueba\prueba\bin\Debug\prueba.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\prueba\prueba\bin\Debug\prueba.pdb
+I:\Documents and Settings\Gustavo\Escritorio\C#\prueba\prueba\obj\Debug\ResolveAssemblyReference.cache
+I:\Documents and Settings\Gustavo\Escritorio\C#\prueba\prueba\obj\Debug\prueba.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\prueba\prueba\obj\Debug\prueba.pdb

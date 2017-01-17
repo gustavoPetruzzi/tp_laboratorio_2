@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ManejoDeErrores">
+</Property><Property Name="Solution File" Value="I:\Documents and Settings\Gustavo\Escritorio\ManejoDeErrores-2009\ManejoDeErrores.sln">
+</Property><Property Name="User Options File" Value="I:\Documents and Settings\Gustavo\Escritorio\ManejoDeErrores-2009\ManejoDeErrores.suo">
+</Property><Property Name="Date" Value="Viernes, 28 de Octubre de 2016">
+</Property><Property Name="Time" Value="14:04 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ManejoDeErrores.sln" Description="File successfully backed up as I:\Documents and Settings\Gustavo\Escritorio\ManejoDeErrores-2009\Backup\ManejoDeErrores.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ManejoDeErrores.suo" Description="File successfully backed up as I:\Documents and Settings\Gustavo\Escritorio\ManejoDeErrores-2009\Backup\ManejoDeErrores.suo">
+</Event><Event ErrorLevel="0" Project="ManejoDeErrores" Source="ManejoDeErrores\ManejoDeErrores.csproj" Description="Project file successfully backed up as I:\Documents and Settings\Gustavo\Escritorio\ManejoDeErrores-2009\Backup\ManejoDeErrores\ManejoDeErrores.csproj">
+</Event><Event ErrorLevel="0" Project="ManejoDeErrores" Source="ManejoDeErrores\MiClaseException.cs" Description="File successfully backed up as I:\Documents and Settings\Gustavo\Escritorio\ManejoDeErrores-2009\Backup\ManejoDeErrores\MiClaseException.cs">
+</Event><Event ErrorLevel="0" Project="ManejoDeErrores" Source="ManejoDeErrores\Program.cs" Description="File successfully backed up as I:\Documents and Settings\Gustavo\Escritorio\ManejoDeErrores-2009\Backup\ManejoDeErrores\Program.cs">
+</Event><Event ErrorLevel="0" Project="ManejoDeErrores" Source="ManejoDeErrores\Properties\AssemblyInfo.cs" Description="File successfully backed up as I:\Documents and Settings\Gustavo\Escritorio\ManejoDeErrores-2009\Backup\ManejoDeErrores\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ManejoDeErrores" Source="ManejoDeErrores\ManejoDeErrores.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ManejoDeErrores" Source="ManejoDeErrores\ManejoDeErrores.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ManejoDeErrores.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ManejoDeErrores.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ManejoDeErrores" Source="ManejoDeErrores\ManejoDeErrores.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

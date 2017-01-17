@@ -1,0 +1,8 @@
+I:\Documents and Settings\Gustavo\Escritorio\C#\webBNA\webBNA\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Documents and Settings\Gustavo\Escritorio\C#\webBNA\webBNA\bin\Debug\webBNA.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\webBNA\webBNA\bin\Debug\HtmlAgilityPack.dll
+I:\Documents and Settings\Gustavo\Escritorio\C#\webBNA\webBNA\bin\Debug\HtmlAgilityPack.pdb
+I:\Documents and Settings\Gustavo\Escritorio\C#\webBNA\webBNA\bin\Debug\HtmlAgilityPack.xml
+I:\Documents and Settings\Gustavo\Escritorio\C#\webBNA\webBNA\obj\x86\Debug\webBNA.exe
+I:\Documents and Settings\Gustavo\Escritorio\C#\webBNA\webBNA\obj\x86\Debug\webBNA.pdb
+I:\Documents and Settings\Gustavo\Escritorio\C#\webBNA\webBNA\bin\Debug\webBNA.pdb
